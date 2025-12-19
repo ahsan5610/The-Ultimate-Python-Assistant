@@ -1,4 +1,4 @@
-🧠 # JARVIS: The Ultimate Python Assistant
+🧠  JARVIS: # The Ultimate Python Assistant
 
 Welcome to JARVIS, a multifunctional Python-based personal assistant packed with over 30+ powerful features. Designed to streamline your daily tasks, boost productivity, and provide intelligent automation — all in one place.
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 3️⃣ ## Run the assistant
 bash
 python main.py
-📂 # Project Structure
+📂 ## Project Structure
 ## Code
 ├── alarm.py
 ├── Calculatenumbers.py
