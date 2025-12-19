@@ -1,0 +1,14 @@
+pyttsx3
+speechrecognition
+pyaudio
+datetime
+keyboard
+webbrowser
+requests
+bs4
+googletrans==4.0.0rc1
+opencv-python
+playsound
+pyautogui
+pandas
+matplotlib
