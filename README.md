@@ -29,7 +29,7 @@ videoplayback.mp4: Sample media file for playback testing
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/jarvis-python-assistant.git
+git clone (https://github.com/ahsan5610/The-Ultimate-Python-Assistant.git)
 cd jarvis-python-assistant
 Install dependencies
 
